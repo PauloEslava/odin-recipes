@@ -1,0 +1,1 @@
+This is my first project from TOP! I made a simple "website" from scratch. The website has 3 recipes and a home page. It's extremely basic, but I'm proud of it and it's my first of many projects! <3
